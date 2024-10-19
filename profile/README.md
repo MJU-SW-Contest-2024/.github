@@ -5,9 +5,7 @@
 ---
 
 <aside>
-```jsx
 사용자의 일기를 학습해 개인 맞춤형 대화를 나누는 힐링 챗봇 서비스 앱
-```
 
 </aside>
 
@@ -21,13 +19,12 @@
 
 ### Infra
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d585b519-8573-4b79-a92a-7a04a0718b84/72613123-4019-4a09-8ec0-2a1c1a1cbf84/image.png)
-
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/f09d781fc32d1df30a4366eaf5f6ee23c7ac015c/profile/nabi_infra.png">
 **(이미지 저작권자: 이재혁)**
 
 ### ERD
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d585b519-8573-4b79-a92a-7a04a0718b84/2dc83122-1b9a-4450-8654-7ac01ca2a839/image.png)
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/f09d781fc32d1df30a4366eaf5f6ee23c7ac015c/profile/nabi_erd.png">
 
 ## 🐱나비팀 소개
 
@@ -44,7 +41,7 @@
 
 | 이채민 | 서예원 |
 | --- | --- |
-| <img width=100 src=""/> | <img width=100 src="https://github.com/user-attachments/assets/bd5bfe1f-2d14-4dae-8e94-f462c00ca0ac"/> |
+| | <img width=100 src="https://github.com/user-attachments/assets/bd5bfe1f-2d14-4dae-8e94-f462c00ca0ac"/> |
 | 기획 | 디자인 |
 
 ### 안드로이드
@@ -58,5 +55,5 @@
 
 | 김남훈 |
 | --- |
-| <img width=100 src=""/> |
+| <img width=100 src="https://avatars.githubusercontent.com/u/87366543?v=4"/> |
 | 백엔드(LLM) |
