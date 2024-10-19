@@ -41,7 +41,7 @@
 
 | 이채민 | 서예원 |
 | --- | --- |
-| | <img width=100 src="https://github.com/user-attachments/assets/bd5bfe1f-2d14-4dae-8e94-f462c00ca0ac"/> |
+| |  |
 | 기획 | 디자인 |
 
 ### 안드로이드
