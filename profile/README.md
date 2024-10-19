@@ -1,26 +1,32 @@
 <img src="https://github.com/MJU-SW-Contest-2024/.github/blob/a88a1c5c9183bde37b72815e28b3371103084c12/profile/langdingface.png">
 
+<br>
+
 ## **💻 프로젝트 소개**
 
----
+<br>
 
 <aside>
 사용자의 일기를 학습해 개인 맞춤형 대화를 나누는 힐링 챗봇 서비스 앱
 
+
+
 </aside>
+<br>
+
 
 ## 교내 SW 경진대회(SW 개발부문) 대상 🥇
 
 [명지대, ‘2024학년도 명지대학교 창의적 SW프로그램 경진대회’ 시상식](https://news.unn.net/news/articleView.html?idxno=569851)
 
-## **🛠️ 아키텍처**
+<br>
 
----
+
+## **🛠️ 아키텍처**
 
 ### Infra
 
 <img src="https://github.com/MJU-SW-Contest-2024/.github/blob/f09d781fc32d1df30a4366eaf5f6ee23c7ac015c/profile/nabi_infra.png">
-**(이미지 저작권자: 이재혁)**
 
 ### ERD
 
