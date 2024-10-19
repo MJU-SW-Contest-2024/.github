@@ -1,4 +1,4 @@
-[https://file.notion.so/f/f/d585b519-8573-4b79-a92a-7a04a0718b84/73812ac1-e7ec-4e25-88d4-4891d6034ced/image.png?table=block&id=124cb144-3bce-80ea-9d5a-fab48cf6eeea&spaceId=d585b519-8573-4b79-a92a-7a04a0718b84&expirationTimestamp=1729468800000&signature=JISWwBfL4kz3TliuiesaUJwoFywL-JEdnXBLHPto_wE&downloadName=image.png](https://github.com/user-attachments/assets/3524b66f-f29a-44e2-a1d5-479577756f86)
+https://github.com/user-attachments/assets/16e1fa58-483f-45fc-87ca-846b81d1c254
 
 ## **💻 프로젝트 소개**
 
