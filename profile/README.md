@@ -1,13 +1,13 @@
-https://github.com/user-attachments/assets/16e1fa58-483f-45fc-87ca-846b81d1c254
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/a88a1c5c9183bde37b72815e28b3371103084c12/profile/langdingface.png" height="400">
 
 ## **💻 프로젝트 소개**
 
 ---
 
 <aside>
-💡
-
+```jsx
 사용자의 일기를 학습해 개인 맞춤형 대화를 나누는 힐링 챗봇 서비스 앱
+```
 
 </aside>
 
