@@ -1,4 +1,4 @@
-<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/a88a1c5c9183bde37b72815e28b3371103084c12/profile/langdingface.png" height="400">
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/a88a1c5c9183bde37b72815e28b3371103084c12/profile/langdingface.png">
 
 ## **💻 프로젝트 소개**
 
