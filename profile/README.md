@@ -37,7 +37,9 @@
 <img src="https://github.com/MJU-SW-Contest-2024/.github/blob/f09d781fc32d1df30a4366eaf5f6ee23c7ac015c/profile/nabi_erd.png">
 
 <br>
+
 ## 설명 보드
+
 <img src="https://github.com/MJU-SW-Contest-2024/.github/blob/62d9e78878f5f2d13abe7d2f51248dd15506c386/profile/%E1%84%82%E1%85%A1%E1%84%87%E1%85%B5_%E1%84%89%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A7%E1%86%BC%E1%84%87%E1%85%A9%E1%84%83%E1%85%B3.png">
 
 <br>
