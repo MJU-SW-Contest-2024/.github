@@ -32,11 +32,29 @@
 
 <img src="https://github.com/MJU-SW-Contest-2024/.github/blob/f09d781fc32d1df30a4366eaf5f6ee23c7ac015c/profile/nabi_infra.png">
 
+### Android
+
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/aca37aa7f6f3499dd0632aa01d940f73c89e2f4a/profile/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-10-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.16.14.png">
+
 ### ERD
 
 <img src="https://github.com/MJU-SW-Contest-2024/.github/blob/f09d781fc32d1df30a4366eaf5f6ee23c7ac015c/profile/nabi_erd.png">
 
 <br>
+
+### Android 구현 과정
+
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/aca37aa7f6f3499dd0632aa01d940f73c89e2f4a/profile/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-10-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.17.16.png">
+
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/aca37aa7f6f3499dd0632aa01d940f73c89e2f4a/profile/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-10-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.17.22.png">
+
+<br>
+
+### Server 구현 과정
+
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/aca37aa7f6f3499dd0632aa01d940f73c89e2f4a/profile/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-10-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.17.06.png">
+
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/aca37aa7f6f3499dd0632aa01d940f73c89e2f4a/profile/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-10-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.16.44.png">
 
 ## 설명 보드
 
