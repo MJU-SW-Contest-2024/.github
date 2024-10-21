@@ -12,6 +12,19 @@
 
 
 </aside>
+
+<br>
+
+<span>
+  
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/61ee54e1a6203147c2e67bdc5f587874423ca14c/profile/action1.gif" width="300">
+
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/61ee54e1a6203147c2e67bdc5f587874423ca14c/profile/image22.png" width="300">
+
+<img src="https://github.com/MJU-SW-Contest-2024/.github/blob/61ee54e1a6203147c2e67bdc5f587874423ca14c/profile/image23.png" width="300">
+
+</span>
+
 <br>
 
 
