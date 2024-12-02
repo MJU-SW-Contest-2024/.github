@@ -92,7 +92,7 @@
 | 이채민 | 서예원 |
 | --- | --- |
 | |  |
-| 기획 | 디자인 |
+| PM | 디자인 |
 
 ### 안드로이드
 
@@ -100,10 +100,3 @@
 | --- | --- |
 | <img width=100 src="https://avatars.githubusercontent.com/u/105299421?v=4"/> | <img width=100 src="https://avatars.githubusercontent.com/u/37996727?v=4"/> |
 | 안드로이드 | 안드로이드 |
-
-### 백엔드(LLM)
-
-| 김남훈 |
-| --- |
-| <img width=100 src="https://avatars.githubusercontent.com/u/87366543?v=4"/> |
-| 백엔드(LLM) |
